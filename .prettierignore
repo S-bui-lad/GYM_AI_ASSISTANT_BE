@@ -1,0 +1,14 @@
+node_modules
+dist
+build
+coverage
+*.log
+*.tgz
+*.tar.gz
+package-lock.json
+.git
+.env
+.env.local
+.env.*.local
+.vscode
+.idea 
